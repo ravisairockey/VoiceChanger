@@ -1,0 +1,21 @@
+{
+    "file": "File",
+    "quit": "Quit",
+    "display": "Display",
+    "reload": "Reload",
+    "force-reload": "Force reload",
+    "show-dev-tool": "Show dev-tool",
+    "reset-zoom": "Reset zoom",
+    "zoom-in": "Zoom in",
+    "zoom-out": "Zoom out",
+    "toggle-fullscreen": "Fullscreen",
+    "minimize": "Minimize",
+    "front": "front",
+    "window": "Window",
+    "close": "Close",
+    "about": "About",
+    "service": "Services",
+    "hide": "Hide",
+    "hide-others": "Hide others",
+    "unhide": "Unhide"
+}

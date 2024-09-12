@@ -1,0 +1,148 @@
+{
+  "title": "Jett valorant (V2) RMVPE 220 EPOCHS",
+  "author": {
+    "name": "imcertibtw",
+    "discordUserId": "852753046114795550"
+  },
+  "md5": "d64f72fba4971bc953a265ea40a356c4",
+  "uploadedAt": "2023-12-17T01:33:01.936Z",
+  "weightsLink": "https://www.weights.gg/models/clq8tdc8u00anm2ote3akf14b",
+  "id": "clq8tdc8u00anm2ote3akf14b",
+  "type": "v2",
+  "tags": [
+    "RVC V2"
+  ],
+  "description": "https://huggingface.co/imcertibtw/MODELS2/resolve/main/Jett.zip?download=true",
+  "samples": [],
+  "files": [
+    {
+      "name": "model.index",
+      "size": 39008339,
+      "md5": "896988855cde343a24a2a6b60324524e"
+    },
+    {
+      "name": "model.pth",
+      "size": 56267323,
+      "md5": "d64f72fba4971bc953a265ea40a356c4"
+    }
+  ],
+  "torchMetadata": {
+    "config": {
+      "spec_channels": 513,
+      "segment_size": 32,
+      "inter_channels": 192,
+      "hidden_channels": 192,
+      "filter_channels": 768,
+      "n_heads": 2,
+      "n_layers": 6,
+      "kernel_size": 3,
+      "p_dropout": 0,
+      "resblock": "1",
+      "resblock_kernel_sizes": [
+        3,
+        7,
+        11
+      ],
+      "resblock_dilation_sizes": [
+        [
+          1,
+          3,
+          5
+        ],
+        [
+          1,
+          3,
+          5
+        ],
+        [
+          1,
+          3,
+          5
+        ]
+      ],
+      "upsample_rates": [
+        10,
+        8,
+        2,
+        2
+      ],
+      "upsample_initial_channel": 512,
+      "upsample_kernel_sizes": [
+        20,
+        16,
+        4,
+        4
+      ],
+      "emb_channels": null,
+      "spk_embed_dim": 109,
+      "gin_channels": 256,
+      "sr": 32000
+    },
+    "f0": 1,
+    "version": "v2",
+    "extra_info": {
+      "config": [
+        513,
+        32,
+        192,
+        192,
+        768,
+        2,
+        6,
+        3,
+        0,
+        "1",
+        [
+          3,
+          7,
+          11
+        ],
+        [
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            1,
+            3,
+            5
+          ],
+          [
+            1,
+            3,
+            5
+          ]
+        ],
+        [
+          10,
+          8,
+          2,
+          2
+        ],
+        512,
+        [
+          20,
+          16,
+          4,
+          4
+        ],
+        109,
+        256,
+        32000
+      ],
+      "info": "140epoch",
+      "sr": "32k",
+      "f0": 1,
+      "version": "v2"
+    }
+  },
+  "url": "https://huggingface.co/imcertibtw/MODELS2/resolve/main/Jett.zip?download=true",
+  "urls": [
+    "https://huggingface.co/imcertibtw/MODELS2/resolve/main/Jett.zip?download=true"
+  ],
+  "originalFileList": [
+    "Jett_e140_s980.pth",
+    "added_IVF316_Flat_nprobe_1_Jett_v2.index"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "slotIndex": 2,
+    "voiceChangerType": "RVC",
+    "name": "\u9ec4\u7434\u307e\u3072\u308d(onnx)",
+    "description": "",
+    "credit": "\u9ec4\u7434\u307e\u3072\u308d",
+    "termsOfUseUrl": "https://huggingface.co/wok000/vcclient_model/raw/main/rvc_v2_alpha/kikoto_mahiro/terms_of_use.txt",
+    "iconFile": "kikoto_mahiro.png",
+    "speakers": {
+        "0": "target"
+    },
+    "modelFile": "kikoto_mahiro_v2_40k_simple.onnx",
+    "indexFile": "",
+    "defaultTune": 0,
+    "defaultIndexRatio": 0,
+    "defaultProtect": 0.5,
+    "isONNX": true,
+    "modelType": "onnxRVC",
+    "samplingRate": 40000,
+    "f0": true,
+    "embChannels": 768,
+    "embOutputLayer": 12,
+    "useFinalProj": false,
+    "deprecated": false,
+    "embedder": "hubert_base",
+    "sampleId": "KikotoMahiro_o",
+    "version": "v2"
+}

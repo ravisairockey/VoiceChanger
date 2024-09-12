@@ -1,0 +1,21 @@
+{
+    "file": "ファイル",
+    "quit": "終了",
+    "display": "表示",
+    "reload": "再読み込み",
+    "force-reload": "強制的に再読み込み",
+    "show-dev-tool": "開発者ツールを表示",
+    "reset-zoom": "実際のサイズ",
+    "zoom-in": "拡大",
+    "zoom-out": "縮小",
+    "toggle-fullscreen": "フルスクリーン",
+    "minimize": "最小化",
+    "front": "前面に表示",
+    "window": "ウィンドウ",
+    "close": "閉じる",
+    "about": "アバウト",
+    "service": "サービス",
+    "hide": "隠す",
+    "hide-others": "他を隠す",
+    "unhide": "すべて表示"
+}

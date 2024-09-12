@@ -1,0 +1,28 @@
+{
+    "slotIndex": 4,
+    "voiceChangerType": "RVC",
+    "name": "\u3042\u307f\u305f\u308d 16k(onnx)",
+    "description": "",
+    "credit": "\u3042\u307f\u305f\u308d",
+    "termsOfUseUrl": "https://huggingface.co/wok000/vcclient_model/raw/main/rvc_v2_alpha/amitaro16k/terms_of_use.txt",
+    "iconFile": "amitaro.png",
+    "speakers": {
+        "0": "target"
+    },
+    "modelFile": "amitaro_v2_16k.onnx",
+    "indexFile": "",
+    "defaultTune": 0,
+    "defaultIndexRatio": 0,
+    "defaultProtect": 0.5,
+    "isONNX": true,
+    "modelType": "onnxRVC",
+    "samplingRate": 16000,
+    "f0": true,
+    "embChannels": 768,
+    "embOutputLayer": 12,
+    "useFinalProj": false,
+    "deprecated": false,
+    "embedder": "hubert_base",
+    "sampleId": "Amitaro_16k_o",
+    "version": "v2.1"
+}
